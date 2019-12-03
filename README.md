@@ -1,8 +1,16 @@
-<a href="https://www.bootstrapdash.com/demo/material-admin-free/jquery/template/demo/index.html" target="_blank"><img src="screenshot.jpg"></a>
-
 <h1>Material Admin</h1>
 Material Admin is yet another incredible admin template from Bootstrapdash that is based on Google Material Design framework. The template is tastefully designed and coded to perfection. Material Admin comes packed with a lot of material design components, UI elements and built-in sample pages to kick-start your project.
-<br><br>
+
+<br />
+
+> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-material-admin). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+
+<br />
+
+<a href="https://www.bootstrapdash.com/demo/material-admin-free/jquery/template/demo/index.html" target="_blank"><img src="screenshot.jpg"></a>
+
+<br />
+
 The template is highly customizable so that you can alter the design to suit your needs and give it a unique look and very well-documented to help you get started without any issues.
 
 <h1>Credits:</h1>
