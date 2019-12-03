@@ -1,5 +1,7 @@
-<h1>Material Admin</h1>
+# Material Admin 
+
 Material Admin is yet another incredible admin template from Bootstrapdash that is based on Google Material Design framework. The template is tastefully designed and coded to perfection. Material Admin comes packed with a lot of material design components, UI elements and built-in sample pages to kick-start your project.
+
 
 <br />
 
